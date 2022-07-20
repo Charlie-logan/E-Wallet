@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">EWallet</string>
+
+    <string-array name="operators">
+
+    <item/>
+
+    <item>Jio</item>
+
+    <item>Airtel</item>
+
+    <item>BSNL</item>
+
+    <item>Vi</item>
+
+    <item>MTNL</item>
+
+</string-array>
+
+
+    <string-array name="providers">
+
+    <item/>
+
+    <item>Dish TV</item>
+
+    <item>Airtel digital TV</item>
+
+    <item>Tata Sky</item>
+
+    <item>Sun Direct</item>
+
+    <item>Videocon d2h</item>
+
+</string-array>
+
+
+    <string-array name="board">
+
+    <item/>
+
+    <item>CESC Limited</item>
+
+    <item>India Power Corporation Ltd.(Asansol) </item>
+
+    <item>West Bengal Electricity</item>
+
+    <item>Jamshedpur Utilities and Services Company Ltd.(JUSCO) </item>
+
+    <item>Jharkhand Bijli Vitran Nigam Limited (JBVNL) </item>
+
+</string-array>
+
+
+    <string-array name="board1">
+
+    <item/>
+
+    <item>Delhi Jal Board (DJB)</item>
+
+    <item>JalKal Vibhag Agra</item>
+
+    <item>Durgapur Municipal Corporation</item>
+
+    <item>Ranchi Municipal Corporation</item>
+
+    <item>Bokaro Jal Board</item>
+
+</string-array>
+
+    <string-array name="theater">
+
+    <item/>
+
+    <item>Carnival Cinemas,Durgapur</item>
+
+    <item>BioScope Multiplex,Durgapur</item>
+
+    <item>Arti Cinemas,Durgapur</item>
+
+    <item>Durgapur Cinemas,Durgapur</item>
+
+    <item>INOX Cinemas,Dhanbad</item>
+
+</string-array>
+
+
+    <string-array name="rental">
+
+    <item/>
+
+    <item>Office/Shop Rent</item>
+
+    <item>Car Rentals</item>
+
+    <item>Guesthouse Rentals</item>
+
+    <item>Furniture Rentals</item>
+
+    <item>Wedding Services Rentals</item>
+
+</string-array>
+</resources>
